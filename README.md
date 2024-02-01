@@ -1,5 +1,3 @@
-# jffhll's blog
-
 ## Creating a DnD Innkeeper/Shopkeeper Discord bot
 *January 30th, 2024*
 
@@ -16,4 +14,4 @@ For that reason, I'm going to start building a Discord bot to do all this work f
 
 And I'm going to name it after [my favorite innkeeper](https://kingkiller.fandom.com/wiki/Kvothe), even though he thinks he lost that name. 
 
-Follow the project on Github: https://github.com/jffhll/kvothe
+Follow the project on Github: [https://github.com/jffhll/kvothe](https://github.com/jffhll/kvothe)
